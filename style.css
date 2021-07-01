@@ -1,0 +1,32 @@
+.flex-parent1{
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+    height:100vh;  
+
+}
+.enfant1{
+    background-color: rgb(3, 0, 200);
+    height: 33vh;
+
+   
+}
+.enfant2{
+    background-color: rgb(238, 248, 247);
+    height: 33vh;
+    
+}
+.enfant3{
+    background-color:rgb(243, 12, 12);
+    height: 33vh;
+}
+.enfant4{
+    background-color: brown;
+    height: 15vh;
+}
+.enfant5{
+    background-color: chocolate;
+    height: 15vh;
+}
